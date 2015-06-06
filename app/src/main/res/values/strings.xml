@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Memoria</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Salir</string>
+    <string name="action_settings2">Externa</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="mensaje1">Escribe algo</string>
+    <string name="guardar">Guardar</string>
+    <string name="Abrir">Abrir</string>
+    <string name="title_activity_main_activity3">MainActivity3</string>
+
+</resources>
